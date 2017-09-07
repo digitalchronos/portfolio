@@ -1,0 +1,48 @@
+ About Me	index.html	/^      <\/h2>$/;"	i
+ Digital Chronos	index.html	/^      <\/h1>$/;"	h
+ Portfolio	index.html	/^      <\/h2>$/;"	i
+ Work Example Name	index.html	/^        <\/h2>$/;"	i
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/fc2655d/
+.background--skyBlue	styles/main.css	/^.background--skyBlue {$/;"	c
+.color--cloud	styles/main.css	/^.color--cloud {$/;"	c
+.color--darkgrey	styles/main.css	/^.color--darkgrey {$/;"	c
+.color--grey	styles/main.css	/^.color--grey {$/;"	c
+.color--skyBlue	styles/main.css	/^.color--skyBlue {$/;"	c
+.margin--none	styles/main.css	/^.margin--none {$/;"	c
+.modal--closed	styles/main.css	/^.modal--closed {$/;"	c
+.modal--open	styles/main.css	/^.modal--open {$/;"	c
+.modal__closeButton	styles/main.css	/^.modal__closeButton {$/;"	c
+.modal__image	styles/main.css	/^.modal__image {$/;"	c
+.modal__link	styles/main.css	/^.modal__link {$/;"	c
+.modal__text	styles/main.css	/^.modal__text {$/;"	c
+.overflow--auto	styles/main.css	/^.overflow--auto {$/;"	c
+.section	styles/main.css	/^.section {$/;"	c
+.section--alignCentered	styles/main.css	/^.section--alignCentered {$/;"	c
+.section--description	styles/main.css	/^.section--description {$/;"	c
+.section--social	styles/main.css	/^.section--social {$/;"	c
+.section__description	styles/main.css	/^.section__description {$/;"	c
+.section__example	styles/main.css	/^.section__example {$/;"	c
+.section__example:active	styles/main.css	/^.section__example:active {$/;"	c
+.section__exampleImage	styles/main.css	/^.section__exampleImage {$/;"	c
+.section__exampleTitle	styles/main.css	/^.section__exampleTitle{$/;"	c
+.section__exampleWrapper	styles/main.css	/^.section__exampleWrapper {$/;"	c
+.section__exampleWrapper	styles/main.css	/^.section__exampleWrapper,$/;"	c
+.section__heading--largest	styles/main.css	/^.section__heading--largest {$/;"	c
+.section__text--centered	styles/main.css	/^.section__text--centered {$/;"	c
+.social	styles/main.css	/^.social {$/;"	c
+.socialWrapper	styles/main.css	/^.socialWrapper {$/;"	c
+.socialWrapper:last-child .social	styles/main.css	/^.socialWrapper:last-child .social {$/;"	c
+body	styles/main.css	/^body {$/;"	s
+h1	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	styles/main.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+html	styles/main.css	/^html {$/;"	s
